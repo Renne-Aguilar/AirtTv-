@@ -1,0 +1,13 @@
+.feed {
+    flex: 1;
+    background-color: #f9f9f9;
+    padding-bottom: 0;
+}
+.feed > h3 {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.feed_videos {
+    display: flex;
+    flex-wrap: wrap;
+}
